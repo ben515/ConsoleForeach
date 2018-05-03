@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\bin\Debug\ConsoleForeach.exe.config
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\bin\Debug\ConsoleForeach.exe
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\bin\Debug\ConsoleForeach.pdb
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\obj\Debug\ConsoleForeach.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\obj\Debug\ConsoleForeach.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\obj\Debug\ConsoleForeach.exe
+C:\Users\Ben\source\repos\ConsoleForeach\ConsoleForeach\obj\Debug\ConsoleForeach.pdb
